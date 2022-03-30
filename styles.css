@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(18, 106, 165, 0.5);
+    margin: 20px;
+    display:inline-block;
+}
+#navbar{
+    position: fixed;
+    
+
+}
+#welcome-section{
+    height: 100vh;
+    padding-top: 60px;
+}
